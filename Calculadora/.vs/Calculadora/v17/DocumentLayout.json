@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\work\\project\\cj\\AI_Code_Agent\\test_souce\\calculadora.NET-master\\Calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1327C05-FDA8-4AF0-A635-9E4567AAEBCB}|Calculadora.csproj|e:\\work\\project\\cj\\ai_code_agent\\test_souce\\calculadora.net-master\\calculadora\\calculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1327C05-FDA8-4AF0-A635-9E4567AAEBCB}|Calculadora.csproj|solutionrelative:calculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4A108D-0F04-435B-AA3C-CFE33A7770D0}|..\\Calculadora.Control\\Calculadora.Control.csproj|E:\\work\\project\\cj\\AI_Code_Agent\\test_souce\\calculadora.NET-master\\calculadora.control\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 300,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculos.cs",
+              "DocumentMoniker": "E:\\work\\project\\cj\\AI_Code_Agent\\test_souce\\calculadora.NET-master\\Calculadora\\Calculos.cs",
+              "RelativeDocumentMoniker": "Calculos.cs",
+              "ToolTip": "E:\\work\\project\\cj\\AI_Code_Agent\\test_souce\\calculadora.NET-master\\Calculadora\\Calculos.cs",
+              "RelativeToolTip": "Calculos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:04:27.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UI.cs",
+              "DocumentMoniker": "E:\\work\\project\\cj\\AI_Code_Agent\\test_souce\\calculadora.NET-master\\Calculadora.Control\\UI.cs",
+              "RelativeDocumentMoniker": "..\\Calculadora.Control\\UI.cs",
+              "ToolTip": "E:\\work\\project\\cj\\AI_Code_Agent\\test_souce\\calculadora.NET-master\\Calculadora.Control\\UI.cs",
+              "RelativeToolTip": "..\\Calculadora.Control\\UI.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAADEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-07-25T08:04:27.738Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
